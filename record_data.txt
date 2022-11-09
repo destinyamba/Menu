@@ -16,3 +16,6 @@ The Beatles, Maxwell's Silver Hammer, Pop, 45, Acceptable, 2, 5.49
 Neil Cowley Trio, Radio Silence, Jazz, LP, Good, 2, 12.99
 Destiny Amba, Hello, Jazz, LP, Good, 3, 12.0
 Michael Jackson, Perogative, Pop, LP, Very Good, 5, 12.0
+Neil Cowley, Radio Silence, Jazz, 69, Bad, 4, 2.99
+Buju, Mr Benson, Afrobeats, 3, Excellent, 4, 15.99
+Blaqbonez, HOT BOY, Rap, LP, Excellent, 5, 12.0
